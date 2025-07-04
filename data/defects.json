@@ -1,0 +1,20 @@
+{
+  "DEF001": {
+    "description": "Navigation initialization failure",
+    "pattern": [
+      "[ERROR] NavService",
+      "Init failed",
+      "restarting nav core"
+    ],
+    "team": "Navigation Team"
+  },
+  "DEF002": {
+    "description": "CAN bus overload",
+    "pattern": [
+      "CAN queue overflow",
+      "Bus load > 90%",
+      "ECU CAN_TIMEOUT"
+    ],
+    "team": "CAN Layer Team"
+  }
+}

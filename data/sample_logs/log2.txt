@@ -1,0 +1,25 @@
+1970-01-01 00:00:02.000 [ECU2] [CAN] [ERROR] CAN queue overflow detected
+1970-01-01 00:00:01.789 [ECU1] [NAV] [WARN] NavService: Retrying initialization
+1970-01-01 00:00:02.000 [ECU2] [CAN] [ERROR] CAN queue overflow detected
+1970-01-01 00:00:02.000 [ECU2] [CAN] [ERROR] CAN queue overflow detected
+1970-01-01 00:00:02.000 [ECU2] [CAN] [ERROR] CAN queue overflow detected
+1970-01-01 00:00:03.100 [ECU3] [SYS] [INFO] Boot sequence completed
+1970-01-01 00:00:03.800 [ECU1] [NAV] [INFO] GPSService: Initialized successfully
+1970-01-01 00:00:02.300 [ECU2] [CAN] [ERROR] ECU CAN_TIMEOUT detected on Bus2
+1970-01-01 00:00:02.000 [ECU2] [CAN] [ERROR] CAN queue overflow detected
+1970-01-01 00:00:01.789 [ECU1] [NAV] [WARN] NavService: Retrying initialization
+1970-01-01 00:00:01.123 [ECU1] [NAV] [ERROR] NavService: Init failed due to config missing
+1970-01-01 00:00:03.800 [ECU1] [NAV] [INFO] GPSService: Initialized successfully
+1970-01-01 00:00:01.456 [ECU1] [NAV] [ERROR] restarting nav core
+1970-01-01 00:00:01.456 [ECU1] [NAV] [ERROR] restarting nav core
+1970-01-01 00:00:02.300 [ECU2] [CAN] [ERROR] ECU CAN_TIMEOUT detected on Bus2
+1970-01-01 00:00:01.789 [ECU1] [NAV] [WARN] NavService: Retrying initialization
+1970-01-01 00:00:01.789 [ECU1] [NAV] [WARN] NavService: Retrying initialization
+1970-01-01 00:00:03.100 [ECU3] [SYS] [INFO] Boot sequence completed
+1970-01-01 00:00:03.800 [ECU1] [NAV] [INFO] GPSService: Initialized successfully
+1970-01-01 00:00:01.123 [ECU1] [NAV] [ERROR] NavService: Init failed due to config missing
+1970-01-01 00:00:01.789 [ECU1] [NAV] [WARN] NavService: Retrying initialization
+1970-01-01 00:00:03.100 [ECU3] [SYS] [INFO] Boot sequence completed
+1970-01-01 00:00:02.000 [ECU2] [CAN] [ERROR] CAN queue overflow detected
+1970-01-01 00:00:04.100 [ECU1] [SENSOR] [DEBUG] Sensor fusion running
+1970-01-01 00:00:01.456 [ECU1] [NAV] [ERROR] restarting nav core
