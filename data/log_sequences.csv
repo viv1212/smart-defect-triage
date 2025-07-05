@@ -1,0 +1,224 @@
+log_text,label
+"[INFO] GPSService: Initialized successfully
+[DEBUG] Sensor fusion running
+[INFO] System heartbeat OK",NONE
+"[ERROR] CAN queue overflow detected
+[WARN] Bus load > 90% on CAN1
+[ERROR] CAN arbitration failure",DEF002
+"[ERROR] CAN queue overflow detected
+[WARN] Bus load > 90% on CAN1
+[ERROR] CAN arbitration failure
+[INFO] Cache flushed",DEF002
+"[ERROR] ECU CAN_TIMEOUT on Bus2
+[ERROR] CAN buffer dropped messages
+[WARN] Retrying CAN init",DEF002
+"[ERROR] CAN queue overflow detected
+[WARN] Bus load > 90% on CAN1
+[ERROR] CAN arbitration failure
+[DEBUG] Timestamp sync",DEF002
+"[ERROR] Init failed due to config missing
+[ERROR] restarting nav core
+[WARN] Retrying initialization",DEF001
+"[INFO] Diagnostics passed
+[INFO] System uptime 4h
+[DEBUG] All services nominal
+[INFO] Cache flushed",NONE
+"[ERROR] CAN queue overflow detected
+[WARN] Bus load > 90% on CAN1
+[ERROR] CAN arbitration failure
+[DEBUG] Timestamp sync",DEF002
+"[INFO] Boot completed
+[DEBUG] Sensor calibration OK
+[INFO] No anomalies detected
+[INFO] Cache flushed",NONE
+"[INFO] Diagnostics passed
+[INFO] System uptime 4h
+[DEBUG] All services nominal",NONE
+"[ERROR] NavService failed to initialize
+[WARN] Retrying init...
+[ERROR] restarting nav core",DEF001
+"[ERROR] Init failed due to config missing
+[ERROR] restarting nav core
+[WARN] Retrying initialization
+[DEBUG] Timestamp sync",DEF001
+"[ERROR] GPS sync failed in NavService
+[ERROR] Navigation service crashed
+[WARN] NavService retrying...",DEF001
+"[ERROR] ECU CAN_TIMEOUT on Bus2
+[ERROR] CAN buffer dropped messages
+[WARN] Retrying CAN init",DEF002
+"[INFO] GPSService: Initialized successfully
+[DEBUG] Sensor fusion running
+[INFO] System heartbeat OK
+[INFO] CPU usage normal",NONE
+"[INFO] Diagnostics passed
+[INFO] System uptime 4h
+[DEBUG] All services nominal
+[DEBUG] Timestamp sync",NONE
+"[INFO] Diagnostics passed
+[INFO] System uptime 4h
+[DEBUG] All services nominal",NONE
+"[INFO] Diagnostics passed
+[INFO] System uptime 4h
+[DEBUG] All services nominal
+[INFO] CPU usage normal",NONE
+"[INFO] Diagnostics passed
+[INFO] System uptime 4h
+[DEBUG] All services nominal
+[DEBUG] Timestamp sync",NONE
+"[ERROR] Init failed due to config missing
+[ERROR] restarting nav core
+[WARN] Retrying initialization",DEF001
+"[INFO] GPSService: Initialized successfully
+[DEBUG] Sensor fusion running
+[INFO] System heartbeat OK
+[INFO] CPU usage normal",NONE
+"[ERROR] GPS sync failed in NavService
+[ERROR] Navigation service crashed
+[WARN] NavService retrying...",DEF001
+"[ERROR] CAN queue overflow detected
+[WARN] Bus load > 90% on CAN1
+[ERROR] CAN arbitration failure
+[DEBUG] Timestamp sync",DEF002
+"[INFO] Diagnostics passed
+[INFO] System uptime 4h
+[DEBUG] All services nominal
+[DEBUG] Timestamp sync",NONE
+"[ERROR] NavService failed to initialize
+[WARN] Retrying init...
+[ERROR] restarting nav core
+[DEBUG] Timestamp sync",DEF001
+"[ERROR] NavService failed to initialize
+[WARN] Retrying init...
+[ERROR] restarting nav core
+[INFO] CPU usage normal",DEF001
+"[INFO] Boot completed
+[DEBUG] Sensor calibration OK
+[INFO] No anomalies detected
+[INFO] Cache flushed",NONE
+"[ERROR] CAN queue overflow detected
+[WARN] Bus load > 90% on CAN1
+[ERROR] CAN arbitration failure
+[INFO] CPU usage normal",DEF002
+"[WARN] High CAN bus load detected
+[ERROR] CAN packet lost
+[ERROR] CAN1 interface error
+[INFO] CPU usage normal",DEF002
+"[ERROR] GPS sync failed in NavService
+[ERROR] Navigation service crashed
+[WARN] NavService retrying...",DEF001
+"[ERROR] CAN queue overflow detected
+[WARN] Bus load > 90% on CAN1
+[ERROR] CAN arbitration failure
+[DEBUG] Timestamp sync",DEF002
+"[INFO] Boot completed
+[DEBUG] Sensor calibration OK
+[INFO] No anomalies detected
+[DEBUG] Timestamp sync",NONE
+"[WARN] High CAN bus load detected
+[ERROR] CAN packet lost
+[ERROR] CAN1 interface error
+[INFO] CPU usage normal",DEF002
+"[ERROR] ECU CAN_TIMEOUT on Bus2
+[ERROR] CAN buffer dropped messages
+[WARN] Retrying CAN init
+[INFO] CPU usage normal",DEF002
+"[INFO] Diagnostics passed
+[INFO] System uptime 4h
+[DEBUG] All services nominal
+[DEBUG] Timestamp sync",NONE
+"[ERROR] GPS sync failed in NavService
+[ERROR] Navigation service crashed
+[WARN] NavService retrying...
+[DEBUG] Timestamp sync",DEF001
+"[ERROR] GPS sync failed in NavService
+[ERROR] Navigation service crashed
+[WARN] NavService retrying...
+[INFO] Cache flushed",DEF001
+"[WARN] High CAN bus load detected
+[ERROR] CAN packet lost
+[ERROR] CAN1 interface error
+[INFO] Cache flushed",DEF002
+"[INFO] Diagnostics passed
+[INFO] System uptime 4h
+[DEBUG] All services nominal
+[INFO] CPU usage normal",NONE
+"[ERROR] GPS sync failed in NavService
+[ERROR] Navigation service crashed
+[WARN] NavService retrying...",DEF001
+"[ERROR] NavService failed to initialize
+[WARN] Retrying init...
+[ERROR] restarting nav core
+[INFO] Cache flushed",DEF001
+"[ERROR] NavService failed to initialize
+[WARN] Retrying init...
+[ERROR] restarting nav core
+[INFO] Cache flushed",DEF001
+"[INFO] Boot completed
+[DEBUG] Sensor calibration OK
+[INFO] No anomalies detected
+[INFO] Cache flushed",NONE
+"[INFO] Diagnostics passed
+[INFO] System uptime 4h
+[DEBUG] All services nominal
+[INFO] CPU usage normal",NONE
+"[ERROR] CAN queue overflow detected
+[WARN] Bus load > 90% on CAN1
+[ERROR] CAN arbitration failure
+[DEBUG] Timestamp sync",DEF002
+"[ERROR] CAN queue overflow detected
+[WARN] Bus load > 90% on CAN1
+[ERROR] CAN arbitration failure
+[DEBUG] Timestamp sync",DEF002
+"[INFO] Boot completed
+[DEBUG] Sensor calibration OK
+[INFO] No anomalies detected",NONE
+"[ERROR] CAN queue overflow detected
+[WARN] Bus load > 90% on CAN1
+[ERROR] CAN arbitration failure
+[INFO] CPU usage normal",DEF002
+"[ERROR] Init failed due to config missing
+[ERROR] restarting nav core
+[WARN] Retrying initialization
+[INFO] CPU usage normal",DEF001
+"[ERROR] GPS sync failed in NavService
+[ERROR] Navigation service crashed
+[WARN] NavService retrying...
+[INFO] Cache flushed",DEF001
+"[ERROR] CAN queue overflow detected
+[WARN] Bus load > 90% on CAN1
+[ERROR] CAN arbitration failure",DEF002
+"[ERROR] Init failed due to config missing
+[ERROR] restarting nav core
+[WARN] Retrying initialization",DEF001
+"[ERROR] GPS sync failed in NavService
+[ERROR] Navigation service crashed
+[WARN] NavService retrying...
+[DEBUG] Timestamp sync",DEF001
+"[ERROR] CAN queue overflow detected
+[WARN] Bus load > 90% on CAN1
+[ERROR] CAN arbitration failure
+[INFO] Cache flushed",DEF002
+"[ERROR] NavService failed to initialize
+[WARN] Retrying init...
+[ERROR] restarting nav core
+[DEBUG] Timestamp sync",DEF001
+"[WARN] High CAN bus load detected
+[ERROR] CAN packet lost
+[ERROR] CAN1 interface error",DEF002
+"[INFO] Boot completed
+[DEBUG] Sensor calibration OK
+[INFO] No anomalies detected
+[DEBUG] Timestamp sync",NONE
+"[WARN] High CAN bus load detected
+[ERROR] CAN packet lost
+[ERROR] CAN1 interface error
+[INFO] Cache flushed",DEF002
+"[ERROR] GPS sync failed in NavService
+[ERROR] Navigation service crashed
+[WARN] NavService retrying...
+[INFO] CPU usage normal",DEF001
+"[INFO] Diagnostics passed
+[INFO] System uptime 4h
+[DEBUG] All services nominal
+[INFO] CPU usage normal",NONE
