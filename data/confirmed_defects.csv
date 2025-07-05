@@ -1,0 +1,2 @@
+Defect Label,Log Count,Sample Message,Assigned Team,Timestamp,Source Log File
+DEF001,10,NavService: Retrying initialization,CAN Layer Team,2025-07-05 18:48:37,log1.txt
